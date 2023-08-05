@@ -1,8 +1,9 @@
 .venv
 .venv copy
-vid-1
-vid-2
-vid-3
+/vid-1
+/vid-2
+/vid-3
+
 .dccache
 anpr_maincode_org.py
 classes.txt
